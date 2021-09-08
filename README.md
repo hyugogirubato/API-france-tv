@@ -1,2 +1,2 @@
 ## france•tv API
-All information is located in the [wiki](https://github.com/hyugogirubato).
+All information is located in the [wiki](https://github.com/hyugogirubato/API-france-tv/wiki).
