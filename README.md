@@ -1,2 +1,2 @@
-# API-france.tv
-Here is a wiki listing the entire API used by france.tv.
+## API-france•tv
+All information is located in the [wiki](https://github.com/hyugogirubato).
